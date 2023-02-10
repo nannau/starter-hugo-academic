@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Nic Annau
       image:
-        filename: hero-academic.png
+        filename: profile.jpg
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
