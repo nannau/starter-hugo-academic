@@ -8,7 +8,7 @@
 appearance:
   theme_day: Apogee
   theme_night: Earth
-  font: Mr Robot
+  font: Classic
   font_size: L
 
 # SEO
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/nannau'
+    url: 'https://github.com/nannau/starter-hugo-academic'
     content_dir: content
     branch: main
   avatar:
@@ -78,7 +78,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
