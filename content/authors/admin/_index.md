@@ -74,5 +74,5 @@ email: 'nannau@uvic.ca'
 highlight_name: true
 ---
 
-I am a physical scientist interested in artificial intelligence for climate science applications. I'm interests include generative models, computer vision, generative adversarial networks, and statistical downscaling.
+My name is Nic, and this is my personal website to organize projects that I am interested or involved in. I am a physical scientist with Environment and Climate Change Canada currently interested in using artificial intelligence for statistical downscaling. I am interests include generative models, computer vision, generative adversarial networks, and statistical downscaling.
 {style="text-align: justify;"}
