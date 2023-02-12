@@ -22,7 +22,7 @@ publishDate: "2017-12-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Astronomy & Astrophysics *(1)"
+publication: "Astronomy & Astrophysics"
 publication_short: ""
 
 abstract: 
@@ -66,7 +66,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
