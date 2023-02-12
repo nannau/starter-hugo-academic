@@ -1,5 +1,5 @@
 ---
-title: "Solving the conundrum of intervening strong Mg ii absorbers
+title: "Solving the conundrum of intervening strong Mg II absorbers
 towards gamma-ray bursts and quasars"
 authors:
 - admin
