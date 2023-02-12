@@ -49,8 +49,6 @@ featured: true
 links:
 - name: PDF
   url: 'https://iopscience.iop.org/article/10.3847/1538-4357/ab4a77/pdf'
-- name: Code
-  url: ''
 
 url_pdf: ''
 url_code: ''

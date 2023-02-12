@@ -3,7 +3,7 @@ title: "Solving the conundrum of intervening strong Mg II absorbers
 towards gamma-ray bursts and quasars"
 authors:
 - admin
-- L. Christensen1
+- L. Christensen
 - S. D. Vergani
 - S. Schulze
 - admin
@@ -31,14 +31,12 @@ abstract: Previous studies have shown that the incidence rate of intervening str
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+featured: true
 
 links:
 - name: PDF
   url: https://www.aanda.org/articles/aa/pdf/2017/12/aa31382-17.pdf
-- name: Code
-  url: ''
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -69,13 +67,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
+<!-- 
 {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
