@@ -1,17 +1,20 @@
 ---
-title: "Solo dwarfs II: the stellar structure of isolated Local Group dwarf galaxies"
+title: "Cyberhubs: Virtual Research Environments for Astronomy"
 authors:
-- C R Higgs
-- A W McConnachie
+- Falk Herwig
+- Robert Andrassy
 - admin
-- M Irwin
-- G Battaglia
-- P Côté
-- G F Thomas
-- K Venn
+- Ondrea Clarkson
+- Benoit Côté
+- Sam Jones
+- Belaid Moa
+- Jericho O’Connell
+- David Porter
+- Christian Ritter
+- Paul Woodward
 
-date: "2021-01-01T00:00:00Z"
-doi: "10.1093/mnras/stab002"
+date: "2018-05-01T00:00:00Z"
+doi: "10.3847/1538-4365/aab777"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-12-11T00:00:00Z"
@@ -23,10 +26,10 @@ publishDate: "2017-12-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Monthly Notices of the Royal Astronomical Society"
-publication_short: "MNRAS"
+publication: "The Astrophysical Journal"
+publication_short: "ApJ"
 
-abstract: The Solo (Solitary Local) Dwarf Galaxy survey is a volume-limited, wide-field g- and i-band survey of all known nearby (<3 Mpc) and isolated (>300 kpc from the Milky Way or M31) dwarf galaxies. This set of 44 dwarfs is homogeneously analysed for quantitative comparisons to the satellite dwarf populations of the Milky Way and M31. In this paper, an analysis of the 12 closest Solo dwarf galaxies accessible from the Northern hemisphere is presented, including derivation of their distances, spatial distributions, morphology, and extended structures, including their inner integrated light properties and their outer resolved star distributions. All 12 galaxies are found to be reasonably well described by two-dimensional Sérsic functions, although UGC 4879 in particular shows tentative evidence of two distinct components. No prominent extended stellar substructures, which could be signs of either faint satellites or recent mergers, are identified in the outer regions of any of the systems examined.
+abstract: Collaborations in astronomy and astrophysics are faced with numerous cyber-infrastructure challenges, such as large data sets, the need to combine heterogeneous data sets, and the challenge to effectively collaborate on those large, heterogeneous data sets with significant processing requirements and complex science software tools. The cyberhubs system is an easy-to-deploy package for small- to medium-sized collaborations based on the Jupyter and Docker technology, which allows web-browser-enabled, remote, interactive analytic access to shared data. It offers an initial step to address these challenges. The features and deployment steps of the system are described, as well as the requirements collection through an account of the different approaches to data structuring, handling, and available analytic tools for the NuGrid and PPMstar collaborations. NuGrid is an international collaboration that creates stellar evolution and explosion physics and nucleosynthesis simulation data. The PPMstar collaboration performs large-scale 3D stellar hydrodynamics simulations of interior convection in the late phases of stellar evolution. Examples of science that is currently performed on cyberhubs, in the areas of 3D stellar hydrodynamic simulations, stellar evolution and nucleosynthesis, and Galactic chemical evolution, are presented.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,8 +39,7 @@ featured: true
 
 links:
 - name: PDF
-  url: https://doi.org/10.1093/mnras/stab002
-
+  url: https://doi.org/10.3847%2F1538-4365%2Faab777
 url_pdf: ''
 url_code: ''
 url_dataset: ''
