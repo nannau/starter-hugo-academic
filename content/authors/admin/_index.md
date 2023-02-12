@@ -21,7 +21,7 @@ organizations:
     url: https://www.uvic.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, climate science, and statistical downscaling.
 
 # Interests to show in About widget
 interests:
