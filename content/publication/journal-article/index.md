@@ -82,7 +82,7 @@ url_video: ''
 image:
   caption:
   focal_point: ""
-  preview_only
+  preview_only:
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
