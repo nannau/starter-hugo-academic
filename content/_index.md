@@ -28,7 +28,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="astro" >}}
     design:
       columns: '1'
   - block: tag_cloud
