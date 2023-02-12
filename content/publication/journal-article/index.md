@@ -1,5 +1,6 @@
 ---
-title: "An example journal article"
+title: "Solving the conundrum of intervening strong Mg ii absorbers
+towards gamma-ray bursts and quasars"
 authors:
 - admin
 - Nic Annau
