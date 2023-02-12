@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: "3rd International Conference on New Horizons in Green Civil Engineering (NHICE-03), Victoria, BC, Canada, April 25 – 27, 2022"
 publication_short: "NHICE"
 
-abstract: Climate change has the potential to affect buildings and infrastructure by changing the conditions to which they are
+abstract: "Climate change has the potential to affect buildings and infrastructure by changing the conditions to which they are
 exposed. To better quantify and prepare for these changes, Infrastructure Canada and the National Research Council
 (NRC) recently supported a collaboration between the Pacific Climate Impacts Consortium (PCIC) and Environment
 and Climate Change Canada (ECCC) to develop updated guidance to the engineering community. One facet of this
@@ -40,7 +40,7 @@ DVE) for general users to explore design value variations across Canada. The sea
 future climate states in the RCM further allows the tool to provide projected changes to design values indexed to
 different levels of global warming.
 In this short paper, we review the development of the Design Value Explorer online tool, and showcase its main
-features.
+features."
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
