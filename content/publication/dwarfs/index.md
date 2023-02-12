@@ -28,8 +28,6 @@ authors:
 - Céline Reylé
 - Rubén Sánchez-Janssen
 
-
-
 date: "2019-11-01T00:00:00Z"
 doi: "10.3847/1538-4357/ab4a77"
 
