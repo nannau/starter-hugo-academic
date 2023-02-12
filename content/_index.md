@@ -12,24 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description:
-          icon: python
-          icon_pack: fab
-        - name: Statistics
-          description:
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-    design:
-      columns: '2'
   - block: markdown
     content:
       title: Gallery
