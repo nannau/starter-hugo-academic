@@ -5,13 +5,13 @@ title: "Dwarfs or Giants? Stellar Metallicities and Distances from ugrizG Multib
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Thomas, Guillaume F.
+- Guillaume F Thomas
 - admin
-- McConnachie, Alan
-- Fabbro, Sebastien
-- Teimoorinia, Hossen
-- Côté, Patrick
-- et al.
+- Alan McConnachie
+- Sebastien Fabbro
+- Hossen Teimoorinia
+- Patrick Côté
+- et al
 
 
 
