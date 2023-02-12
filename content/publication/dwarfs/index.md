@@ -11,7 +11,22 @@ authors:
 - Sebastien Fabbro
 - Hossen Teimoorinia
 - Patrick Côté
-- et al
+- Jean-Charles Cuillandre
+- Stephen Gwyn
+- Rodrigo A Ibata
+- Else Stakenburg
+- Raymond Carlberg
+- Benoit Famaey
+- Nicholas Fantin
+- Laura Ferrarese
+- Vincent Hénault-Brunet
+- Jaclyn Jensen
+- Ariane Lançon
+- Geraint F Lewis
+- Nicolas F Martin
+- Julio F Navarro
+- Céline Reylé
+- Rubén Sánchez-Janssen
 
 
 
