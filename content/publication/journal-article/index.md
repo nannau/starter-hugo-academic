@@ -44,7 +44,7 @@ date: "2017-23-21T00:00:00Z"
 doi: "10.1051/0004-6361/20173138"
 
 # Schedule page publish date (NOT publication's date).
-<!-- publishDate: "2017-01-01T00:00:00Z" -->
+publishDate: "2017-12-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
