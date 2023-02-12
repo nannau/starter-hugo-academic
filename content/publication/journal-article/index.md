@@ -7,7 +7,8 @@ authors:
 - S. D. Vergani
 - S. Schulze
 - admin
-- ...
+- et al.
+- 
 date: "2017-23-21T00:00:00Z"
 doi: "10.1051/0004-6361/20173138"
 
